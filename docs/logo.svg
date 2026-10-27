@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#f4efe4"/><rect x="10" y="10" width="492" height="492" rx="104" fill="none" stroke="#1d1b18" stroke-opacity=".08" stroke-width="4"/>
+<path d="M256 150c-44-30-104-36-158-26v262c54-10 114-4 158 26z" fill="#5b7f3a"/>
+<path d="M256 150c44-30 104-36 158-26v262c-54-10-114-4-158 26z" fill="#1d1b18"/>
+<text x="176" y="290" text-anchor="middle" font-size="120" fill="#f4efe4" font-family="Noto Sans Thai, Noto Sans, sans-serif" font-weight="700">A</text>
+<text x="336" y="290" text-anchor="middle" font-size="120" fill="#f4efe4" font-family="Noto Sans Thai, Noto Sans, sans-serif" font-weight="700">ก</text>
+<path d="M226 236h60" stroke="#b5562b" stroke-width="18" stroke-linecap="round"/><path d="M272 220l18 16-18 16" fill="none" stroke="#b5562b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M256 150v262" stroke="#f4efe4" stroke-width="8"/>
+</svg>
